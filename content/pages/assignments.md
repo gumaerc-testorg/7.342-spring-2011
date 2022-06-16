@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the written assignment and oral
+  presentation assignment of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
