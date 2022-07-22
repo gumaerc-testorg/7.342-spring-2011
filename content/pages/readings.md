@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of readings by week including links to lecture
+  summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 67d4fb0b-1c59-e313-7d3f-626ebc919aee
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction of instructor and students and course overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Let_s_get_to_know)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#Let_s_get_to_know" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ Introduction of instructor and students and course overview
 
 The vulnerability of mtDNA and consequences of oxidative damage
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Mitochondria_are_the)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#Mitochondria_are_the" %}}
 
 
 {{< tdclose >}}
@@ -56,7 +61,7 @@ The vulnerability of mtDNA and consequences of oxidative damage
 
 ### Paper 1
 
-Richter, C., J. W. Park, and B. Ames. "Normal Oxidative Damage to Mitochondrial DNA is Extensive." _PNAS_ 85 (1988): 6465-67. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pnas.org/content/85/17/6465.full.pdf))
+Richter, C., J. W. Park, and B. Ames. "Normal Oxidative Damage to Mitochondrial DNA is Extensive." _PNAS_ 85 (1988): 6465-67. ([PDF](http://www.pnas.org/content/85/17/6465.full.pdf))
 
 ### Paper 2
 
@@ -75,7 +80,7 @@ Pinz, K. G., S. Shibutani, and D. F. Bogenhagen. "[Action of Mitochondrial DNA P
 
 Repair of 8-oxoG from the mitochondrial genome: The importance of OGG1 and base excision repair pathways
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#In_the_last)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#In_the_last" %}}
 
 
 {{< tdclose >}}
@@ -103,7 +108,7 @@ De Souza-Pinto, N. C., L. Eide, B. Hogue, T. Thybo, T. Stevsner, E. Seeberg, A. 
 
 The mitochondrial theory of aging and the importance of OGG1
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Oxidative)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#Oxidative" %}}
 
 
 {{< tdclose >}}
@@ -131,7 +136,7 @@ Bacsi, A., G. Chodaczek, T. K. Hazra, D. Konkel, and I. Boldogh. "[Increased ROS
 
 Mouse models for mtDNA mutation and aging
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Earlier)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#Earlier" %}}
 
 
 {{< tdclose >}}
@@ -159,7 +164,7 @@ Vermulst M., J. H. Bielas, G. C. Kujoth, W. C. Ladiges, P. S. Rabinovitch, T. A.
 
 Oxidative damage and base excision repair in Alzheimer's disease
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Alzheimer_s)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#Alzheimer_s" %}}
 
 
 {{< tdclose >}}
@@ -172,7 +177,7 @@ Wang J., S. Xiong, C. Xie, W. R. Markesberry, and M. A. Lovell. "[Increased Oxid
 
 ### Paper 2
 
-Weissman L., J. Dong-Gyu, M. M. Sorensn, N. C. de Souza-Pinto, W. R. Merkesberry, M. P. Mattson, and V. A. Bohr. "Defective DNA Base Excision Repair in Brain from Individuals with Alzheimer's Disease and Amnestic Mild Cognitive Impairment." _Nucleic Acids Research_ 35 (2007): 5545-55. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://nar.oxfordjournals.org/content/35/16/5545.full.pdf))
+Weissman L., J. Dong-Gyu, M. M. Sorensn, N. C. de Souza-Pinto, W. R. Merkesberry, M. P. Mattson, and V. A. Bohr. "Defective DNA Base Excision Repair in Brain from Individuals with Alzheimer's Disease and Amnestic Mild Cognitive Impairment." _Nucleic Acids Research_ 35 (2007): 5545-55. ([PDF](http://nar.oxfordjournals.org/content/35/16/5545.full.pdf))
 
 
 {{< tdclose >}}
@@ -187,7 +192,7 @@ Weissman L., J. Dong-Gyu, M. M. Sorensn, N. C. de Souza-Pinto, W. R. Merkesberry
 
 mtDNA deletions in neurons and the importance of oxidative phosphorylations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#A_few_weeks)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#A_few_weeks" %}}
 
 
 {{< tdclose >}}
@@ -215,7 +220,7 @@ Sung H. J., W. Ma, P. Y. Wang, J. Hynes, T. C. O'Riordan, C. A. Combs, J. P. McC
 
 Quality control of mtDNA: The bottleneck and mitochondrial fusion
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Eukaryotic)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#Eukaryotic" %}}
 
 
 {{< tdclose >}}
@@ -243,7 +248,7 @@ Fan W., K. G. Waymire, N. Narula, P. Li, C. Rocher, P. E. Coskun, M. A. Vannan, 
 
 From yeast to humans: Conservation of Polγ
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#One)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#One" %}}
 
 
 {{< tdclose >}}
@@ -271,7 +276,7 @@ Stumpf J., C. M. Bailey, D. Spell, M. Stillwagon, K. Anderson, and W. Copeland. 
 
 Determination of nuclear encoded genes that contribute to mitochondrial disorders
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Mitochondrial)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#Mitochondrial" %}}
 
 
 {{< tdclose >}}
@@ -299,7 +304,7 @@ Sugiana C., D. J. Pagliarini, M. McKenzie, D. M. Kirby, R. Salemi, K. K. Abu-Ame
 
 Field trip to the [Laboratory of Vamsi Mootha at Massachusetts General Hospital](http://mootha.med.harvard.edu/)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Dr._Vamsi_Mootha)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#Dr._Vamsi_Mootha" %}}
 
 
 {{< tdclose >}}
@@ -317,7 +322,7 @@ Field trip to the [Laboratory of Vamsi Mootha at Massachusetts General Hospital]
 
 mtDNA in cancer and chemotherapeutic resistance
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#mtDNA)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#mtDNA" %}}
 
 
 {{< tdclose >}}
@@ -345,7 +350,7 @@ Mizutani S., Y. Miyato, Y. Shidara, S. Asoh, A. Tokunaga, T. Tajiri, and S. Ohta
 
 Levels of ROS in the mitochondria of cancer cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Here)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#Here" %}}
 
 
 {{< tdclose >}}
@@ -373,7 +378,7 @@ Kulawiec M., K. M. Owens, and K. Singh. "[Cancer Cell Mitochondria Confer Apopto
 
 Oral presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Students)
+{{% resource_link 319f9a56-78cd-7e30-906b-ad984f1296d7 "See the Lecture Summary" "#Students" %}}
 
 
 {{< tdclose >}}
