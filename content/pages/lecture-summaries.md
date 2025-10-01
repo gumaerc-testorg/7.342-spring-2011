@@ -33,7 +33,7 @@ LECTURE SUMMARIES
 Introduction of instructor and students and course overview
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "Let_s_get_to_know" >}}{{< /anchor >}}Let's get to know each other and discuss what is expected for this course. We will discuss some general strategies about how to read a research article. We will also discuss how to conduct literature searches on [PubMed](http://www.ncbi.nlm.nih.gov/sites/entrez). Lastly, the instructor will introduce the basics of mitochondrial function, mitochondrial DNA, and reactive oxygen species.
+{{< anchor "Let_s_get_to_know" >}}{{< /anchor >}}Let's get to know each other and discuss what is expected for this course. We will discuss some general strategies about how to read a research article. We will also discuss how to conduct literature searches on {{% resource_link "2525db89-ab3f-487c-b940-226df2945afa" "PubMed" %}}. Lastly, the instructor will introduce the basics of mitochondrial function, mitochondrial DNA, and reactive oxygen species.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,12 +150,12 @@ Determination of nuclear encoded genes that contribute to mitochondrial disorder
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the [Laboratory of Vamsi Mootha at Massachusetts General Hospital](http://mootha.med.harvard.edu/)
+Field trip to the {{% resource_link "3384a3d5-88a6-4c0d-9993-2aed7db29228" "Laboratory of Vamsi Mootha at Massachusetts General Hospital" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< anchor "Dr._Vamsi_Mootha" >}}{{< /anchor >}}Dr. Vamsi Mootha is an Associate Professor of Systems Biology and of Medicine at Harvard Medical School. His lab is based at both the Center for Human Genetic Research at Massachusetts General Hospital and at the [Broad Institute](http://www.broadinstitute.org/). He investigates numerous aspects of mitochondrial function and how they affect human diseases. The Mootha lab combines biochemistry, genomics, and computational techniques to investigate mitochondria. We will meet with Dr. Mootha and several of his lab members. We will learn about some of the projects that are being carried out in the lab and learn about the methods they use to conduct their research.
+{{< anchor "Dr._Vamsi_Mootha" >}}{{< /anchor >}}Dr. Vamsi Mootha is an Associate Professor of Systems Biology and of Medicine at Harvard Medical School. His lab is based at both the Center for Human Genetic Research at Massachusetts General Hospital and at the {{% resource_link "f0099cda-1ba9-4264-bc7e-2b4bfe639302" "Broad Institute" %}}. He investigates numerous aspects of mitochondrial function and how they affect human diseases. The Mootha lab combines biochemistry, genomics, and computational techniques to investigate mitochondria. We will meet with Dr. Mootha and several of his lab members. We will learn about some of the projects that are being carried out in the lab and learn about the methods they use to conduct their research.
 
 
 {{< tdclose >}}

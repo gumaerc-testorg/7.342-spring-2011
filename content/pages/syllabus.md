@@ -197,7 +197,7 @@ Determination of nuclear encoded genes that contribute to mitochondrial disorder
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the [Laboratory of Vamsi Mootha at Massachusetts General Hospital](http://mootha.med.harvard.edu/)
+Field trip to the {{% resource_link "3384a3d5-88a6-4c0d-9993-2aed7db29228" "Laboratory of Vamsi Mootha at Massachusetts General Hospital" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
